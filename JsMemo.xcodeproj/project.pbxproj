@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F9CE567F27DE1FE3007BAC08 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9CE567E27DE1FE3007BAC08 /* Model.swift */; };
+		F9CE568127DE21DA007BAC08 /* MemoListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9CE568027DE21DA007BAC08 /* MemoListTableViewController.swift */; };
 		F9CE63F927DCE00F001860FC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9CE63F827DCE00F001860FC /* AppDelegate.swift */; };
 		F9CE63FB27DCE00F001860FC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9CE63FA27DCE00F001860FC /* SceneDelegate.swift */; };
 		F9CE640027DCE00F001860FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9CE63FE27DCE00F001860FC /* Main.storyboard */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		F9CE567E27DE1FE3007BAC08 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		F9CE568027DE21DA007BAC08 /* MemoListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoListTableViewController.swift; sourceTree = "<group>"; };
 		F9CE63F527DCE00F001860FC /* JsMemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JsMemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9CE63F827DCE00F001860FC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F9CE63FA27DCE00F001860FC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 				F9CE640627DCE011001860FC /* LaunchScreen.storyboard */,
 				F9CE640927DCE011001860FC /* Info.plist */,
 				F9CE640127DCE00F001860FC /* JsMemo.xcdatamodeld */,
+				F9CE568027DE21DA007BAC08 /* MemoListTableViewController.swift */,
 			);
 			path = JsMemo;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				F9CE63F927DCE00F001860FC /* AppDelegate.swift in Sources */,
 				F9CE640327DCE00F001860FC /* JsMemo.xcdatamodeld in Sources */,
+				F9CE568127DE21DA007BAC08 /* MemoListTableViewController.swift in Sources */,
 				F9CE63FB27DCE00F001860FC /* SceneDelegate.swift in Sources */,
 				F9CE567F27DE1FE3007BAC08 /* Model.swift in Sources */,
 			);
